@@ -1,5 +1,5 @@
 planpin
 =======
 
-Planet Python Indonesia feed
-http://planet.python.or.id
+http://planet.python.or.id - Planet Python Indonesia!
+[PlanPin](http://planet.python.or.id) URL feeds
