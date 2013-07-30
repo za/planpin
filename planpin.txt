@@ -1,0 +1,38 @@
+[http://blog.somat.web.id/feeds/posts/default/-/Python]
+name = Akhmat Safrudin
+
+[http://fajran.web.id/tag/python/feed/]
+name = Fajran Iman Rusadi
+
+[http://fananimi.com/tag/python/feed/]
+name = Fanani M. Ihsan
+
+[http://blog.emfeld.com/feeds/posts/default/-/Python]
+name = Fauzan Erich Emmerling
+
+[http://direktif.web.id/tag/python/feed/]
+name = Ikhlasul Amal
+
+[http://pebbie.wordpress.com/tag/python/feed/]
+name = Peb Aryan
+
+[http://www.python.or.id/feeds/posts/default]
+name = Python Indonesia
+
+[http://jimmyromanticdevil.wordpress.com/category/python/feed/]
+name = Rahmat Ramadhan
+
+[http://www.saktidwicahyono.name/feeds/posts/default/-/python]
+name = Sakti Dwi Cahyono
+
+[http://kopikaleng.lautlepas.com/?feed=rss2]
+name = Taufiq
+
+[http://blogs.cahlasem.com/tag/python/feed/]
+name = Wahyu Nuryanto
+
+[http://bow.web.id/feed/atom-python.xml]
+name = Wibowo Arindrarto
+
+[http://blogs.itb.ac.id/zakiakhmad/tag/python-id/feed/]
+name = Zaki Akhmad
