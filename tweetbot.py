@@ -3,28 +3,29 @@
 import twitter
 import datetime
 
-planpin = datetime.datetime.now().time('','','','')
+now = datetime.datetime.now().time()
+midnight = now.replace(hour=23, minute=59, second=59, microsecond=59)
+nowstring = datetime.datetime.now().strftime("%H:%M:%S")
 
-t = twitter.Twitter(auth=twitter.OAuth()
+t = twitter.Twitter(auth=twitter.OAuth('','','','')
 
-if datetime.time(hour=0) <= planpin < datetime.time(hour=4):
+if datetime.time(hour=0) <= now < datetime.time(hour=4):
     print "Selamat malam"
-    tweet = 'planpin bot tweet: ' + 'Selamat malam'
+    tweet = nowstring + ' Selamat malam dari planpin | Planet Python Indonesia! http://planet.python.or.id'
     t.statuses.update(status=tweet)
-if datetime.time(hour=4) <= planpin < datetime.time(hour=9):
+if datetime.time(hour=4) <= now < datetime.time(hour=9):
     print "Selamat pagi"
-    tweet = 'planpin bot tweet: ' + 'Selamat pagi'
+    tweet = nowstring + ' Selamat pagi dari planpin | Planet Python Indonesia! http://planet.python.or.id'
     t.statuses.update(status=tweet)
-if datetime.time(hour=9) <= planpin < datetime.time(hour=15):
+if datetime.time(hour=9) <= now < datetime.time(hour=15):
     print "Selamat siang"
-    tweet = 'planpin bot tweet: ' + 'Selamat siang'
+    tweet = nowstring + ' Selamat siang dari planpin | Planet Python Indonesia! http://planet.python.or.id'
     t.statuses.update(status=tweet)
-if datetime.time(hour=15) <= planpin < datetime.time(hour=21):
+if datetime.time(hour=15) <= now) < datetime.time(hour=21):
     print "Selamat sore"
-    tweet = 'planpin bot tweet: ' + 'Selamat sore'
+    tweet = nowstring + ' Selamat sore dari planpin | Planet Python Indonesia! http://planet.python.or.id'
     t.statuses.update(status=tweet)
-if datetime.time(hour=21) <= planpin < datetime.time(hour=0):
+if datetime.time(hour=21) <= now < midnight:
     print "Selamat malam"
-    tweet = 'planpin bot tweet: ' + 'Selamat malam'
+    tweet = nowstring + ' Selamat malam dari planpin | Planet Python Indonesia! http://planet.python.or.id'
     t.statuses.update(status=tweet)
-~                                     
