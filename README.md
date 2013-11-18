@@ -1,9 +1,7 @@
 planpin
 =======
 
-[planpin!](http://planet.python.or.id)- Planet Python Indonesia!
-
-Selamat datang di repositori planpin. Di sini Anda bisa menemukan [URL feed blog](https://github.com/za/planpin/blob/master/planpin.config) yang tergabung di planpin. 
+[planpin](http://planet.python.or.id) | Planet Python Indonesia! Selamat datang di repositori planpin. Di sini Anda bisa menemukan [URL feed blog](https://github.com/za/planpin/blob/master/planpin.config) yang tergabung di planpin. 
 
 Bergabung
 =========
