@@ -3,6 +3,11 @@ planpin
 
 [planpin](http://planet.python.or.id) | Planet Python Indonesia! Selamat datang di repositori planpin. Di sini Anda bisa menemukan [URL feed blog](https://github.com/za/planpin/blob/master/planpin.config) yang tergabung di planpin. 
 
+Syarat
+======
+
+Syarat untuk bergabung ke planpin adalah tulisan mengenai **python**. Penulis tidak harus mahir lebih dahulu dalam python untuk bergabung ke planpin. Yang lebih penting adalah semangat belajar dan berbagi.
+
 Bergabung
 =========
 
