@@ -40,5 +40,5 @@ Catatan Pengembangan
 * [ ] Fetch secara otomatis berkas config.ini yang ada di github setiap hari
 * [ ] Menerima permintaan feed baru via github
 
-* [ ] testing ssh-key
+* [x] testing ssh-key
 * [x] I just need pull git, so I won't push to git repo
