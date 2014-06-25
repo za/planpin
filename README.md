@@ -41,3 +41,4 @@ Catatan Pengembangan
 * [ ] Menerima permintaan feed baru via github
 
 * [ ] testing ssh-key
+* [x] I just need pull git, so I won't push to git repo
