@@ -32,3 +32,10 @@ Twitter bot planpin adalah eksperimen membuat bot twitter memanfaatkan modul [tw
 * [ ] tweet apabila ada tulisan baru: yang disebutkan adalah judul, nama penulis beserta URL tulisan
 
 Versi 1: [tweetbot.py](https://github.com/za/planpin/blob/master/tweetbot.py)
+
+Catatan Pengembangan
+====================
+
+* [ ] Letakkan berkas config.ini ke github
+* [ ] Fetch secara otomatis berkas config.ini yang ada di github setiap hari
+* [ ] Menerima permintaan feed baru via github
