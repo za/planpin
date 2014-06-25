@@ -39,3 +39,5 @@ Catatan Pengembangan
 * [ ] Letakkan berkas config.ini ke github
 * [ ] Fetch secara otomatis berkas config.ini yang ada di github setiap hari
 * [ ] Menerima permintaan feed baru via github
+
+* [ ] testing ssh-key
