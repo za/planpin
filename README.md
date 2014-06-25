@@ -40,4 +40,4 @@ Catatan Pengembangan
 * [ ] Fetch secara otomatis berkas config.ini yang ada di github setiap hari
 * [ ] Menerima permintaan feed baru via github
 
-* [x] testing ssh-key
+* [ ] testing ssh-key
