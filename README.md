@@ -42,5 +42,3 @@ Catatan Pengembangan
 
 * [ ] testing ssh-key
 * [ ] I just need pull git, so I won't push to git repo
-
-PERCOBAAN kedua ketiga
